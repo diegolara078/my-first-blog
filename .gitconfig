@@ -1,0 +1,12 @@
+[core]
+	editor = \"C:\\Users\\User\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe\" --wait
+[user]
+	name = Diego
+	email = diegolara078@gmail.com
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
